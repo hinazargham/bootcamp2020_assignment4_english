@@ -1,0 +1,33 @@
+.room {
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .ON {
+    background-color:lightblue;
+    color: grey;
+  }
+  
+  .OFF {
+    background-color: black;
+    color: white;
+  }
+
+  h1, h2, b {
+    text-align: center;
+    font-family: cursive;
+  }
+  
+  button {
+    height: 40px;
+    margin: 15px;
+    background-color: palevioletred;
+    align-self: center;
+    align-content: center;
+    shape-outside: padding-box;
+  }
+  
+  p {
+    text-align: right;
+    font-family: cursive;
+  }
